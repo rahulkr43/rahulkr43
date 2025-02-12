@@ -2,10 +2,14 @@
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.</h3>
 - 🔭 I’m currently working on [An Emotionally Intelligent Voice Chatbot Using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction](https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot)
+
 - 👯 I’m looking to collaborate on [stockSage - where we developed StockSage, an AI-powered stock analysis bot. OUR PROJECT utilizes Google Gemini 1.5 Pro Model API for advanced generative capabilities, yfinance for real-time stock data retrieval, and Hugging Face tokenization for efficient text processing and predictions. The project is a step toward building an advanced Generative AI solution for the financial domain, helping investors make informed decisions through real-time insights and predictions.](https://sites.google.com/view/rahul-kr/projects/stocksage)
+- 
 - 🤝 I’m looking for help with [MovieTranscriptor - to build this project my aim to cteate a audio data set for train AI powered voice chatbot an that are able to clone the specific voice](https://sites.google.com/view/rahul-kr/projects/movietranscriptor)
+- 
 - 🌱 I’m currently learning **An Emotionally Intelligent Voice Chatbot Using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction**
 - 💬 Ask me about **AI/ML 4**
+- 
 - 📫 How to reach me **rahulkr.kr43@gmail.com**
 - 👨‍💻 All of my projects are available at **https://sites.google.com/view/rahul-kr/home**
 - 📄 Know about my experiences **https://www.linkedin.com/in/rahulkumahato/**
