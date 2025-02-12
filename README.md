@@ -22,7 +22,11 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahulkumahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rahulkumahato" height="30" width="40" /></a><a href="https://kaggle.com/rehankr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="rehankr" height="30" width="40" /></a><a href="https://instagram.com/0_.o2._" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="0_.o2._" height="30" width="40" /></a></p>
-
+<a href="https://www.reddit.com/user/dankOxy/" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/8/82/Reddit_logo_and_wordmark.svg" alt="dankOxy" height="30" width="40" />
+    </a>
+    <a href="mailto:rahulkr.kr43@gmail.com" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon.png" alt="rahulkr.kr43@gmail.com" height="30" width="40" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
