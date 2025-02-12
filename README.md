@@ -1,6 +1,5 @@
-### Hi there 👋
-<p align="left"> I’m @rahulkr43</p>
-
+<h1 align="center">Hi 👋, I'm Rahul kumar</h1>
+<h3 align="center">I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.</h3>
 ###
 
 <div align="left">
