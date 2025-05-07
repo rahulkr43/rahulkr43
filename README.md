@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.</h3>
-- 🔭 I’m  currently working on <a href="https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot" style="text-decoration: none; color: inherit;">An Emotionally Intelligent Voice Chatbot</a> using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction.
 
-- I’ve worked on a project – <a href= "https://sites.google.com/view/rahul-kr/projects/aqi-prediction-using-ml" style="text-decoration: none; color: inherit;"> Prediction of Air Quality Index for Mumbai Region: A Machine Learning Approach</a> ,India. This project addresses the growing difficulty of forecasting air quality due to climate change and pollution. By comparing multiple machine learning models, I identified the most effective approach for accurate AQI prediction and environmental trend analysis.
+- 🌱 I’m currently learning **[A Multimodel Healthcare Chatbot](https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot) Using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction** and this project is associated with **Natioanl institute of electronics and information technology,Patna**
+  
+- 🔭 recentlty I worked on <a href="https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot" style="text-decoration: none; color: inherit;">An Emotionally Intelligent Voice Chatbot</a> using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction.or this is completely uncensored version of RAG.
 
-- 👯🤝 I’m looking to collaborate on <a href="https://sites.google.com/view/rahul-kr/projects/stocksage" style="text-decoration: none; color: inherit;">stockSage - where we developed StockSage, an AI-powered stock analysis bot</a>. AI-Powered Stock Analysis Dashboard - StockSage,This project, StockSage, provides an interactive dashboard for analyzing stock prices using Google's Gemini AI and visualizing trends with interactive charts. It was developed during the Artificial Intelligence Workshop Hackathon organized by the Indian Institute of Technology, Patna, in collaboration with Techgyan Technologies and ANWESHA'25 IIT PATNA on 8th and 9th February 2025.
+- I’ve worked on a project – <a href= "https://sites.google.com/view/rahul-kr/projects/aqi-prediction-using-ml" style="text-decoration: none; color: inherit;"> Prediction of Air Quality Index for Mumbai Region: A Machine Learning Approach</a> ,India. This project addresses the growing difficulty of forecasting air quality due to climate change and pollution. By comparing multiple machine learning models, I identified the most effective approach for accurate AQI prediction and environmental trend analysis. and this project is associated with **Central university of south bihar,Gaya**
+
+- 👯🤝 I’m looking to collaborate on <a href="https://sites.google.com/view/rahul-kr/projects/stocksage" style="text-decoration: none; color: inherit;">stockSage - where we developed StockSage, an AI-powered stock analysis bot</a>. AI-Powered Stock Analysis Dashboard - StockSage,This project, StockSage, provides an interactive dashboard for analyzing stock prices using Google's Gemini AI and visualizing trends with interactive charts. It was developed during the **Artificial Intelligence Workshop Hackathon organized by the Indian Institute of Technology, Patna**, in collaboration with Techgyan Technologies and ANWESHA'25 IIT PATNA on 8th and 9th February 2025.
 
 - 🤝 I’m looking for help with <a href="https://sites.google.com/view/rahul-kr/projects/movietranscriptor" style="text-decoration: none; color: inherit;">MovieTranscriptor</a> to build this project. My aim is to create an audio dataset to train an AI-powered voice chatbot that is able to clone specific voices.
 
-- 🌱 I’m currently learning **[A Multimodel Healthcare Chatbot](https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot) Using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction**
-- 
-- 💬 Ask me about **AI/ML 4**
-- 
+- 💬 Ask me about **AI/ML 4** 
 - 📫 feel free to connect with me <a href="mailto:rahulkr.kr43@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
