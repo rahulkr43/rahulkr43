@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.</h3>
 
-- 🌱 I’m currently learning **[A Multimodel Healthcare Chatbot](https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot) Using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction** and this project is associated with **Natioanl institute of electronics and information technology,Patna**
+- 🌱 I’m currently learning **[A Multimodel Healthcare Chatbot](https://sites.google.com/view/rahul-kr/projects/a-multimodel-heathcare-chatbot) Using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction** and this project is associated with **Natioanl institute of electronics and information technology,Patna**
   
 - 🔭 recentlty I worked on <a href="https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot" style="text-decoration: none; color: inherit;">An Emotionally Intelligent Voice Chatbot</a> using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction.or this is completely uncensored version of RAG.
 
