@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.</h3>
-- 🔭 I’m  currently working on <a href="https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot" style="text-decoration: none; color: inherit;">A multimodel Healthcare Chatbot</a> using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction.
+- 🔭 I’m  currently working on <a href="https://sites.google.com/view/rahul-kr/projects/emo-ai-voice-chatbot" style="text-decoration: none; color: inherit;">An Emotionally Intelligent Voice Chatbot</a> using Deep Learning with Retrieval-Augmented Generation and Few-Shot Voice Cloning for Personalized Human-Computer Interaction.
 
 - 👯🤝 I’m looking to collaborate on <a href="https://sites.google.com/view/rahul-kr/projects/stocksage" style="text-decoration: none; color: inherit;">stockSage - where we developed StockSage, an AI-powered stock analysis bot</a>. OUR PROJECT utilizes Google Gemini 1.5 Pro Model API for advanced generative capabilities, yfinance for real-time stock data retrieval, and Hugging Face tokenization for efficient text processing and predictions. The project is a step toward building an advanced Generative AI solution for the financial domain, helping investors make informed decisions through real-time insights and predictions.
 
