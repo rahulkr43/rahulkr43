@@ -10,7 +10,8 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/pytorch-icon.svg" alt="PyTorch"
+ width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -32,6 +33,10 @@
   &nbsp;
   <a href="https://github.com/rahulkr43/A-Multimodel-Healthcare-Chatbot-Healthgenie" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+  &nbsp;
+  <a href="https://example.com/thesis1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Thesis-Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="Project Thesis">
   </a>
   <p>HealthGenie leverages a local LLM for secure, offline processing and combines it with 
 a RAG pipeline built using LangChain to retrieve real-time up-to-date medical information from curated sources (TATA 1mg, E-Raktkosh). The system employs spaCy-based intent detection to accurately classify user queries into three key domains: (1) symptom analysis and health advice, (2) medicine-related information (dosage, side effects, alternatives), and (3) blood bank location services.<br>
@@ -70,6 +75,10 @@ a RAG pipeline built using LangChain to retrieve real-time up-to-date medical in
   &nbsp;
   <a href="https://github.com/rahulkr43/Prediction-of-Air-Quality-Index-AQI-for-Mumbai-Region" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+  &nbsp;
+  <a href="https://example.com/thesis1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Thesis-Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="Project Thesis">
   </a>
   <p>This project aims to analyze and predict the Air Quality Index (AQI) in Mumbai, India, using machine learning techniques.The truth is that today it has become extremely difficult to predict weather systems, due to extreme climate change. Human cooperation, modernization and industrialization are producing extra heat, which is radiated into the atmosphere. All this extra pollution is affecting the weather systems, due to which it has become extremely difficult. To solve this problem, I have tried to compare all the popular ML algorithms and find the best machine learning algorithm in this project.
     <br>
