@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
   &nbsp;
-  <a href="https://example.com/thesis1.pdf" target="_blank">
+  <a href="https://github.com/rahulkr43/A-Multimodel-Healthcare-Chatbot-Healthgenie/blob/master/final%20thesis%20rahul.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Project_Thesis-Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="Project Thesis">
   </a>
   <p>HealthGenie leverages a local LLM for secure, offline processing and combines it with 
@@ -77,7 +77,7 @@ a RAG pipeline built using LangChain to retrieve real-time up-to-date medical in
     <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
   &nbsp;
-  <a href="https://example.com/thesis1.pdf" target="_blank">
+  <a href="https://github.com/rahulkr43/Prediction-of-Air-Quality-Index-AQI-for-Mumbai-Region/blob/master/Project%20Thesis.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Project_Thesis-Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="Project Thesis">
   </a>
   <p>This project aims to analyze and predict the Air Quality Index (AQI) in Mumbai, India, using machine learning techniques.The truth is that today it has become extremely difficult to predict weather systems, due to extreme climate change. Human cooperation, modernization and industrialization are producing extra heat, which is radiated into the atmosphere. All this extra pollution is affecting the weather systems, due to which it has become extremely difficult. To solve this problem, I have tried to compare all the popular ML algorithms and find the best machine learning algorithm in this project.
